@@ -4,10 +4,13 @@ Hello, my name is Swathi Meghana K R and I am a master's student at University o
 
 - 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Penkova for a paper on Detection of Diabetic Retinopathy at the University
 of Southern California.
-- 🌱 I’m currently learning Full Stack Web Development and also into ML/AI
+- 💻 Full Stack Web-Developer | iOS Application Developer | Android Application Developer 
+- 🤖 AI/ML Enthusiast 
+- 📝 Published Research Papers on 'Detetection of Diabetic Retinopathy using Deep Learning', 'Cotton Plant Disease Detection', 'Okra Plant Disease Detection and  Classification' and, 'Implementation of Application Prototypes for HCI'
 - 🤔 I’m looking for Summer and Fall 2025 internship opportunities.
 - 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!
 - 📫 Checkout my Portfolio Website : https://swathi-kr.github.io/My-Portfolio-Website/index.html
+
 
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
