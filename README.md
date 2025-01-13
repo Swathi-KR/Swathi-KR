@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Swathi 😁
 
-Hello, my name is Swathi Meghana K R and I am a master's student at University of Southern California,Los Angeles, pursuing Masters in Computer Science at Viterbi School of Engineering.
+Hello, I am Swathi Meghana K R, a master's student at the University of Southern California, Los Angeles, pursuing Masters in Computer Science at Viterbi School of Engineering.
 
 - 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Penkova for a paper on Detection of Diabetic Retinopathy at the University
 of Southern California.
