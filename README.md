@@ -1,5 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Hi+there+👋,+I'm+Swathi;Experienced+Full-Stack+Developer;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
 
+
+'''React
+function AboutMe() {
+  return(
+    <>
+    <h1>Hello, I am Swathi Meghana KR<h1>
+    <p>Masters Student at university of Southern California</p>
+    <p>Pursuing Masters in Computer Science at Vertibi School of Engineering</p>
+    </>
+  )  
+}
+'''
+
+
+
 Hello, I am Swathi Meghana K R, a master's student at the University of Southern California, Los Angeles, pursuing Masters in Computer Science at Viterbi School of Engineering.
 
 - 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Penkova for a paper on Detection of Diabetic Retinopathy at the University
