@@ -6,8 +6,8 @@ function AboutMe() {
   return(
     <>
     <h1>Hello, I am Swathi Meghana KR<h1>
-    <p>Masters Student at university of Southern California</p>
-    <p>Pursuing Masters in Computer Science at Vertibi School of Engineering</p>
+    <p>Masters Student at university of Southern California </p>
+    <p>Pursuing Masters in Computer Science at Vertibi School of Engineering </p>
     </>
   )  
 }
