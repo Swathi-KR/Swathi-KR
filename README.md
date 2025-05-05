@@ -13,10 +13,6 @@ function AboutMe() {
 }
 ```
 
-
-
-Hello, I am Swathi Meghana K R, a master's student at the University of Southern California, Los Angeles, pursuing Masters in Computer Science at Viterbi School of Engineering.
-
 - 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Penkova for a paper on Detection of Diabetic Retinopathy at the University
 of Southern California.
 - 💻 Full Stack Web-Developer | iOS Application Developer | Android Application Developer 
