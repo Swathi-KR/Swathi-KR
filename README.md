@@ -13,7 +13,7 @@ function AboutMe() {
 }
 ```
 
-- 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Penkova for a paper on Detection of Diabetic Retinopathy at the University
+- 🔭 I’m currently working as a Graduate Research Assistant for a paper on Detection of Diabetic Retinopathy at the University
 of Southern California.
 - 💻 Full Stack Web-Developer | iOS Application Developer | Android Application Developer 
 - 🤖 AI/ML Enthusiast 
