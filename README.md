@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Hi+there+👋,+I'm+Swathi;Experienced+Full-Stack+Developer;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a5d6ff&width=435&lines=Hi+there+👋,+I'm+Swathi+Meghana;Experienced+Full-Stack+Developer;Constantly+Learning+New+Technology)](https://git.io/typing-svg)
 
 
 ```jsx
