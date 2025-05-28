@@ -13,15 +13,39 @@ function AboutMe() {
 }
 ```
 
-- 🔭 I’m currently working as a Graduate Research Assistant for a paper on Detection of Diabetic Retinopathy at the University
-of Southern California.
-- 💻 Full Stack Web-Developer | iOS Application Developer | Android Application Developer 
-- 🤖 AI/ML Enthusiast 
-- 📝 Published Research Papers on 'Detetection of Diabetic Retinopathy using Deep Learning', 'Cotton Plant Disease Detection', 'Okra Plant Disease Detection and  Classification' and, 'Implementation of Application Prototypes for HCI'
-- 🤔 I’m looking for Summer and Fall 2025 internship opportunities.
-- 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!
-- 📫 Checkout my Portfolio Website : https://swathi-kr.github.io/My-Portfolio-Website/index.html
+🚀 Passionate Software & ML Engineer building scalable, AI-powered web apps that drive real-world impact.
 
+🎓 Currently pursuing my M.S. in Computer Science at the University of Southern California (GPA: 3.78/4.0).
+
+🧠 My work combines full-stack development (React, TypeScript, FastAPI, PostgreSQL) with machine learning (TensorFlow, PyTorch) to solve complex problems and streamline user experiences.
+
+💼 Currently @ NailedIT Labs (Beauty-Tech):
+
+Integrating AI-based recommendation/classification models into a React marketplace
+Architecting backend services with FastAPI + PostgreSQL
+Automating CI/CD using GitHub Actions
+🧪 Research @ USC:
+
+Built and optimized a ResNet50 model for diabetic retinopathy detection, enhancing disease recall by 30%
+Used advanced image preprocessing and dynamic class weighting
+🧠 I also work on:
+
+Cloud-native deployments using Docker, Kubernetes, AWS
+MLOps workflows with automated pipelines
+Deep learning projects in computer vision and medical AI
+📌 Recent Projects:
+
+🧾 Secure EHR Audit Logging System with Chatbot: Encrypted logs + GPT chatbot for hospital systems
+🗑 Waste Classification System: Transfer learning + Keras for 9 waste categories
+🌱 Okra Disease Detection: Semantic segmentation with U-Net + ResNet18
+📚 Publications:
+
+🩺 Diabetic Retinopathy Detection with Inception V3 – 97.66% accuracy
+🌿 Cotton & Okra Plant Disease Detection using CNN/U-Net
+👥 Human–Computer Interaction prototype evaluation
+🌐 Portfolio: swathi-kr.github.io/My-Portfolio-Website
+
+💡 Let’s connect and build something impactful!
 
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
