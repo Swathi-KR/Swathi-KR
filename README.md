@@ -25,31 +25,31 @@ function AboutMe() {
   Architecting backend services with FastAPI + PostgreSQL
   Automating CI/CD using GitHub Actions
 
--🧪 Research @ USC:
+- 🧪 Research @ USC:
 
   Built and optimized a ResNet50 model for diabetic retinopathy detection, enhancing disease recall by 30%
   Used advanced image preprocessing and dynamic class weighting
   
--🧠 I also work on:
+- 🧠 I also work on:
 
   Cloud-native deployments using Docker, Kubernetes, AWS
   MLOps workflows with automated pipelines
   Deep learning projects in computer vision and medical AI
 
--📌 Recent Projects:
+- 📌 Recent Projects:
 
 🧾 Secure EHR Audit Logging System with Chatbot: Encrypted logs + GPT chatbot for hospital systems
 🗑 Waste Classification System: Transfer learning + Keras for 9 waste categories
 🌱 Okra Disease Detection: Semantic segmentation with U-Net + ResNet18
 
--📚 Publications:
+- 📚 Publications:
 
 🩺 Diabetic Retinopathy Detection with Inception V3 – 97.66% accuracy
 🌿 Cotton & Okra Plant Disease Detection using CNN/U-Net
 👥 Human–Computer Interaction prototype evaluation
 🌐 Portfolio: swathi-kr.github.io/My-Portfolio-Website
 
--💡 Let’s connect and build something impactful!
+- 💡 Let’s connect and build something impactful!
 
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
