@@ -6,8 +6,8 @@ function AboutMe() {
   return(
     <>
     <h1>Hello, I am Swathi Meghana KR<h1>
-    <p>Masters Student at university of Southern California </p>
-    <p>Pursuing Masters in Computer Science at Vertibi School of Engineering </p>
+    <p>Masters in CS Student at the University of Southern California </p>
+    <p>Full-stack Developer | AI/ML Enthusiast | Cloud Architect </p>
     </>
   )  
 }
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Pekova for a paper on Detection of Diabetic Retinopathy at the University
 of Southern California.
 - 🌱 I’m currently learning Full Stack Web Development and also into ML/AI
-- 🤔 I’m looking for Summer and Fall 2025 internship opportunities.
+- 🤔 I’m actively seeking Fall 2025 internship and Full time (Jan 2026 start) opportunities.
 - 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!
 - 📫 Checkout my Portfolio Website : https://swathi-kr.github.io/My-Portfolio-Website/index.html
 
