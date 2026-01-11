@@ -40,7 +40,7 @@ AWS · GCP · Docker · Kubernetes
 🔗 [LinkedIn](https://www.linkedin.com/in/swathi-meghana/) · [Portfolio](https://swathi-kr.github.io/My-Portfolio-Website)
 
 - 💡 Let’s connect and build something impactful!<br/>
-- 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!<br/>
+- 💬 Ask me about tech, algorithms, data structures, web-technologies, mobile app development and 'DOGS'!<br/>
 
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
