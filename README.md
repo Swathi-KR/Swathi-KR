@@ -18,7 +18,7 @@ function AboutMe() {
 ---
 
 ### 🧠 What I work with
-- Frontend: React, Angular, Next.js, TypeScript
+- Frontend: Angular, React, Next.js, TypeScript
 - Backend: FastAPI, Flask, Spring Boot, PostgreSQL
 - Cloud & DevOps: AWS, GCP, Docker, Kubernetes, CI/CD
 - Applied AI: Computer Vision, LLM-based automation, ML pipelines
