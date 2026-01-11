@@ -6,20 +6,20 @@ function AboutMe() {
   return(
     <>
     <h1>Hello, I am Swathi Meghana KR<h1>
-    <p>Masters in CS Student at the University of Southern California </p>
     <p>Full-stack Developer | AI/ML Enthusiast | Cloud Architect </p>
+    <p>Masters in CS Graduate at the University of Southern California </p>
     </>
   )  
 }
 ```
 
-- 🚀 Passionate Software & ML Engineer building scalable, AI-powered web apps that drive real-world impact.
+- 🚀 Passionate Software Engineer building scalable, AI-powered web apps that drive real-world impact.
 
-- 🎓 Currently pursuing my M.S. in Computer Science at the University of Southern California (GPA: 3.78/4.0).
+- 🧠 My work combines full-stack development (React, Angular, TypeScript, FastAPI, Node.js, PostgreSQL) with deployments to Cloud (AWS, GCP) to solve complex problems and streamline user experiences.
 
-- 🧠 My work combines full-stack development (React, TypeScript, FastAPI, PostgreSQL) with machine learning (TensorFlow, PyTorch) to solve complex problems and streamline user experiences.
+- 💼 Currently as a SWE @ Medtronic - Cloud R&D Frontend team
 
-- 💼 Currently @ NailedIT Labs (Beauty-Tech):
+- 💼 Ex-Full-stack Developer Intern @ NailedIT Labs (Beauty-Tech):
 
   Integrating AI-based recommendation/classification models into a React marketplace
   Architecting backend services with FastAPI + PostgreSQL
@@ -54,13 +54,7 @@ function AboutMe() {
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Research Assistant under the guidance of Prof. Anita Pekova for a paper on Detection of Diabetic Retinopathy at the University
-of Southern California.
-- 🌱 I’m currently learning Full Stack Web Development and also into ML/AI
-- 🤔 I’m actively seeking Fall 2025 internship and Full time (Jan 2026 start) opportunities.
 - 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!
-- 📫 Checkout my Portfolio Website : https://swathi-kr.github.io/My-Portfolio-Website/index.html
+- 📫 Checkout my Portfolio Website : https://my-portfolio-eta-gules-39.vercel.app
 
 -->
