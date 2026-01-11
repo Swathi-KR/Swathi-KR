@@ -13,48 +13,36 @@ function AboutMe() {
 }
 ```
 
-- 🚀 Passionate Software Engineer building scalable, AI-powered web apps that drive real-world impact.
+🚀 Software engineer passionate about building scalable, user-centric web applications and cloud-native systems, with experience across frontend engineering, full-stack development, and applied AI.
 
-- 🧠 My work combines full-stack development (React, Angular, TypeScript, FastAPI, Node.js, PostgreSQL) with deployments to Cloud (AWS, GCP) to solve complex problems and streamline user experiences.
+---
 
-- 💼 Currently as a SWE @ Medtronic - Cloud R&D Frontend team
+### 🧠 What I work with
+- Frontend: React, Angular, Next.js, TypeScript
+- Backend: FastAPI, Flask, Spring Boot, PostgreSQL
+- Cloud & DevOps: AWS, GCP, Docker, Kubernetes, CI/CD
+- Applied AI: Computer Vision, LLM-based automation, ML pipelines
 
-- 💼 Ex-Full-stack Developer Intern @ NailedIT Labs (Beauty-Tech):<br/>
+---
 
-  Integrating AI-based recommendation/classification models into a React marketplace<br/>
-  Architecting backend services with FastAPI + PostgreSQL<br/>
-  Automating CI/CD using GitHub Actions<br/>
+### 🧩 Selected Projects
+- **Tasky – ActionBot**: Slack-native task automation platform
+- **Secure EHR Audit Logging System**: Tamper-evident healthcare audit logs with AI chatbot
+- **Real-Time Weather Forecast App**: Cross-platform web + iOS application
+- **Waste & Plant Disease Detection**: Transfer learning–based computer vision systems
 
-- 🧪 Research @ USC:<br/>
+---
 
-  Built and optimized a ResNet50 model for diabetic retinopathy detection, enhancing disease recall by 30%<br/>
-  Used advanced image preprocessing and dynamic class weighting<br/>
-  
-- 🧠 I also work on:<br/>
+🛠 **Tech Stack**  
+React · Angular · Next.js · TypeScript · JavaScript · Node.js · FastAPI · Spring Boot · PostgreSQL  
+AWS · GCP · Docker · Kubernetes  
 
-  Cloud-native deployments using Docker, Kubernetes, AWS<br/>
-  MLOps workflows with automated pipelines<br/>
-  Deep learning projects in computer vision and medical AI<br/>
-
-- 📌 Recent Projects:<br/>
-
-🧾 Secure EHR Audit Logging System with Chatbot: Encrypted logs + GPT chatbot for hospital systems<br/>
-🗑 Waste Classification System: Transfer learning + Keras for 9 waste categories<br/>
-🌱 Okra Disease Detection: Semantic segmentation with U-Net + ResNet18<br/>
-
-- 📚 Publications:<br/>
-
-🩺 Diabetic Retinopathy Detection with Inception V3 – 97.66% accuracy<br/>
-🌿 Cotton & Okra Plant Disease Detection using CNN/U-Net<br/>
-👥 Human–Computer Interaction prototype evaluation<br/>
-🌐 Portfolio: swathi-kr.github.io/My-Portfolio-Website<br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/swathi-meghana/) · [Portfolio](https://swathi-kr.github.io/My-Portfolio-Website)
 
 - 💡 Let’s connect and build something impactful!<br/>
+- 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!<br/>
 
 <!--
 **Swathi-KR/Swathi-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 💬 Ask me about tech, algorithms, data structures, web-technologies, android development and 'DOGS'!<br/>
-- 📫 Checkout my Portfolio Website : https://my-portfolio-eta-gules-39.vercel.app<br/>
 
 -->
